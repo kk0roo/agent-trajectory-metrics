@@ -1,0 +1,6 @@
+﻿model,trajectories,avg_total_messages,avg_system_messages,avg_user_messages,avg_assistant_messages,avg_tool_messages,min_total_messages,max_total_messages
+claude_4_5_opus_high_reasoning,500,72.41,1.00,1.00,32.89,37.51,14,222
+claude_opus_4_6,500,60.84,1.00,1.00,28.93,29.91,11,288
+gemini_3_flash_high_reasoning,500,113.24,1.00,1.01,56.11,55.12,2,319
+gpt5_2_codex,500,72.88,1.00,1.01,35.04,35.84,17,251
+minimax_m2_5_high_reasoning,500,121.89,1.00,1.01,60.44,59.44,23,502

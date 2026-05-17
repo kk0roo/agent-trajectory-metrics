@@ -1,0 +1,10 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+
+.env
+docent.env
+
+data/*/trajectories/
+data/*/runs_metadata.csv
+results/top5_metadata_summary.csv

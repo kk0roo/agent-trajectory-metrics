@@ -1,0 +1,2 @@
+﻿file,trajectory_format,system_messages,user_messages,assistant_messages,tool_messages,other_messages,total_messages,exit_status,api_calls,instance_cost,failed_tool_observations
+sample_data\tiny_trajectory.json,mini-swe-agent-1.1,1,1,1,1,0,4,submitted,2,0.0123,0

@@ -1,0 +1,31 @@
+{
+  "trajectory_format": "mini-swe-agent-1.1",
+  "info": {
+    "model_stats": {
+      "instance_cost": 0.0123,
+      "api_calls": 2
+    },
+    "exit_status": "submitted"
+  },
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are a helpful coding agent."
+    },
+    {
+      "role": "user",
+      "content": "Please fix the issue."
+    },
+    {
+      "role": "assistant",
+      "content": "I will inspect the repository."
+    },
+    {
+      "role": "tool",
+      "content": "README.md\nsrc/main.py",
+      "extra": {
+        "returncode": 0
+      }
+    }
+  ]
+}
